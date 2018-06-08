@@ -30,7 +30,8 @@
     "lodash.groupby": "^4.6.0",
     "minilog": "~3.1.0",
     "simple-git": "^1.65.0",
-    "tabtab": "git+https://github.com/mixu/node-tabtab.git"
+    "tabtab": "git+https://github.com/mixu/node-tabtab.git",
+    "cross-spawn": "^6.0.5"
   },
   "devDependencies": {
     "file-fixture": "0.0.2",
